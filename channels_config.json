@@ -1,0 +1,29 @@
+{
+  "shopeefood": {
+    "name": "ShopeeFood",
+    "branches": {
+      "LBB": "Luỹ Bán Bích",
+      "LVT": "Lê Văn Thọ",
+      "BC": "Bàu Cát",
+      "PVC": "Phạm Viết Chánh"
+    }
+  },
+  "grabfood": {
+    "name": "GrabFood",
+    "branches": {
+      "LBB": "Luỹ Bán Bích",
+      "LVT": "Lê Văn Thọ",
+      "BC": "Bàu Cát",
+      "PVC": "Phạm Viết Chánh"
+    }
+  },
+  "xanhsm": {
+    "name": "XanhSM",
+    "branches": {
+      "LBB": "Luỹ Bán Bích",
+      "LVT": "Lê Văn Thọ",
+      "BC": "Bàu Cát",
+      "PVC": "Phạm Viết Chánh"
+    }
+  }
+}

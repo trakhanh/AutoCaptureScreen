@@ -1,0 +1,18 @@
+Pillow>=9.0.0
+google-api-python-client>=2.0.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=0.5.0
+# Pillow is required for image preview functionality in the GUI
+# Google API libraries for Google Drive integration
+# tkinter comes built-in with Python
+# All other dependencies are part of Python standard library
+
+# Requirements for building AutoScreen
+# Install with: pip install -r requirements-build.txt
+
+# Build tools
+pyinstaller>=5.0.0
+
+# Optional GUI enhancements
+ttkthemes>=3.2.0
+

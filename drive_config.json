@@ -1,0 +1,21 @@
+{
+  "auto_upload": false,
+  "create_date_folders": false,
+  "create_branch_folders": false,
+  "create_channel_folders": false,
+  "root_folder_name": "1GVLTVUcClLwQ2B6OvrmnH4YoSQ1RT5kT",
+  "use_root_folder_id": true,
+  "use_custom_mapping": true,
+  "custom_folder_mapping": {
+    "LBB": "1B6ch9dq4lPrQENwKxV80ppLajJ1ho1LY",
+    "LVT": "1drZxIaQTOh8TJMoUP_kk4_8IZOhcGTSS",
+    "BC": "1tVvcyVxJKFitKuP0Ser-IeTNV7Q2vsKc",
+    "PVC": "1QAaAYeCoUgb3iNZYF6S6gGdwHtvXghB4"
+  },
+  "upload_stats": {
+    "total_uploaded": 15,
+    "total_failed": 0,
+    "current_session": 0,
+    "last_upload_time": "2025-09-17 13:50:32.454810"
+  }
+}
